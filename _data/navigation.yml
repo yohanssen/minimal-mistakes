@@ -10,3 +10,6 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  main:
+  - title: "About"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
